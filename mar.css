@@ -1,0 +1,100 @@
+body {
+    background-image: url(imagesss/dddddd.jpg)
+}
+header{
+    background-color:beige;
+}
+ 
+.page-wrapper h1{
+    text-align:center;
+    font-size:95px;
+    font-style:italic;
+    color:burlywood;
+}
+.page-wrapper h2{
+    text-align:center;
+    font-size:50px;
+    font-style:italic;
+    color:burlywood;
+}
+.summary{
+    text-align:center;
+    font-size:35px;
+    font-style:italic;
+    color:brown;
+    border: 8px solid 	#7B68EE;
+    border-style:dotted;  
+    margin:100px;
+    background-color: burlywood;
+    width: 1300px;
+    display: inline-block;
+}
+.preamble{
+    text-align:center;
+    font-size:35px;
+    font-style:italic;
+    color:brown;
+    border: 8px solid 	#7B68EE;
+    border-style:dashed;
+    margin:100px;
+    background-color: burlywood;
+    width: 1300px;
+    display: inline-block;
+    }
+.explanation{
+    text-align:center;
+    font-size:35px;
+    font-style:italic;
+    color:brown;
+    border: 8px solid 	#7B68EE;
+    border-style:double;
+    margin:100px;
+    background-color: burlywood;
+    width: 1300px;
+    display: inline-block;
+    
+}
+.participation{
+      text-align:center;
+    font-size:35px;
+    font-style:italic;
+    color:brown;
+    border: 8px solid 	#7B68EE;
+    border-style:ridge;
+    margin:100px;
+    background-color: burlywood;
+    width: 1400px;
+    display: inline-block;
+
+}
+.benefits{
+  text-align:center;
+    font-size:35px;
+    font-style:italic;
+    color:brown;
+    border: 8px solid 	#7B68EE;
+    border-style:dotted;
+    margin:200px;
+    background-color: burlywood;
+    width: 1200px;
+    display: inline-block;
+}
+.requirements{
+     text-align:center;
+    font-size:35px;
+    font-style:italic;
+    color:brown;
+    border: 8px solid 	#7B68EE;
+    border-style:inset; 
+      margin-left: 50px;
+    background-color: burlywood;
+    width: 1400px;
+}
+.wrapper{
+     text-align:center;
+    font-size:35px;
+    font-style:italic;
+    color:brown;
+    border: 8px solid 	#7B68EE;
+    border-style:dashed;  
+}
