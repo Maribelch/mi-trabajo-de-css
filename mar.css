@@ -1,5 +1,7 @@
 body {
-    background-image: url(imagesss/dddddd.jpg)
+    background-image: url(imagesss/dddddd.jpg);
+    background-size:900px;
+ 
 }
 header{
     background-color:beige;
@@ -10,6 +12,7 @@ header{
     font-size:95px;
     font-style:italic;
     color:burlywood;
+    
 }
 .page-wrapper h2{
     text-align:center;
@@ -81,20 +84,25 @@ header{
 }
 .requirements{
      text-align:center;
-    font-size:35px;
+    font-size:30px;
     font-style:italic;
     color:brown;
     border: 8px solid 	#7B68EE;
     border-style:inset; 
       margin-left: 50px;
     background-color: burlywood;
-    width: 1400px;
+    width: 1500px;
+  
 }
 .wrapper{
      text-align:center;
-    font-size:35px;
+    font-size:20px;
     font-style:italic;
     color:brown;
     border: 8px solid 	#7B68EE;
     border-style:dashed;  
+     margin-left: 50px;
+    background-color: burlywood;
+    width: 1000px;    
+
 }
